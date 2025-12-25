@@ -3,7 +3,7 @@
 # Installation Checkmk
 
 ##
-        sudo curl -Ssl https://raw.githubusercontent.com/Iyankz/CheckMK/refs/heads/main/checkmk.sh | sudo bash
+    sudo curl -Ssl https://raw.githubusercontent.com/Iyankz/CheckMK/refs/heads/main/checkmk.sh | sudo bash
 1. Download Checkmk for Ubuntu or Debian
 ##
     wget https://download.checkmk.com/checkmk/2.4.0p4/check-mk-raw-2.4.0p4_0.noble_amd64.deb
