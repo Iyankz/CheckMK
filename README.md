@@ -28,8 +28,11 @@ curl -sSL https://raw.githubusercontent.com/Iyankz/CheckMK/refs/heads/main/check
 
 ## Dibuat dengan ❤️ oleh [Iyankz](https://github.com/Iyankz) & [Gemini AI](https://gemini.google.com/)
 
-* **Iyankz** (Inisiator & Developer)
+* **Iyankz** (Inisiator , Developer & Tester)
 * **Gemini** (AI Partner & Technical Assistant)
 
 ## ⚖️ Lisensi
 Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE) untuk detailnya.
+
+## ⭐ Dukung Proyek Ini
+Jika repositori ini membantu memudahkan pekerjaan Anda atau bermanfaat bagi tim IT Anda, mohon berikan bintang (Star) ⭐ pada repositori ini sebagai bentuk dukungan bagi kami untuk terus mengembangkan script ini.
